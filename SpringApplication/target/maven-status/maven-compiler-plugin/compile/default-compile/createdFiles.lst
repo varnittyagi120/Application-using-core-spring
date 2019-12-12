@@ -1,0 +1,10 @@
+service/CMSManagement$1.class
+user/Start.class
+util/Utility.class
+dto/Client.class
+dao/DatabaseQueries.class
+service/CRUDContainer.class
+configuration/ApplicationConfig.class
+dto/Person.class
+service/CMSManagement$clientFields.class
+service/CMSManagement.class
