@@ -27,7 +27,7 @@
 	</dependencies>
  
 	<properties>
-		<spring.framework>4.3.9.RELEASE</spring.framework>
+		<spring.framework>5.2.22.RELEASE</spring.framework>
 	</properties>
 	<build>
 		<finalName>SimpleWebProject</finalName>
